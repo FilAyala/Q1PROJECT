@@ -1,0 +1,24 @@
+body {
+    background: lightblue;
+    font-family: 'Chelsea Market', cursive; 
+}
+
+
+#container1{
+	background-color:#f4c2c2;
+	text-align: center;
+}
+
+
+.container2{
+	background-color: beige;
+}
+
+.container3{
+	background-color: lightgreen;
+}
+
+.button{
+	border-radius: 20px;
+	font-family: 'Chelsea Market', cursive; 
+}

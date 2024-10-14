@@ -1,0 +1,36 @@
+body {
+    background: lightblue;
+    font-family: 'Chelsea Market', cursive; 
+}
+
+.container1{
+	background-color:#f4c2c2;
+	text-align:left;
+}
+
+
+.container2{
+	max-height:4000px;
+	display: flex;
+	overflow-x: auto;
+}
+
+
+.container2 .dogs{
+	min-width:580px;
+	height: 400px;
+	text-align: left;
+}
+
+.container3{
+	background-color: beige;
+}
+
+.container4 {
+	text-align: right;
+}
+
+.button{
+	border-radius: 20px;
+	font-family: 'Chelsea Market', cursive; 
+}
